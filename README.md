@@ -11,7 +11,7 @@ I care deeply about **clean architecture**, **UI consistency**, and **developer 
 - 🌍 Based in Bucharest, open to **remote collaboration across Europe and beyond**
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bronislav-voydylo-web-dev/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bron-dev)
+[![Resume Badge](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10_FhLdIkTFg2b_yaqBsSSsh6l5MLqllp/view?usp=sharing)
 
 ---
 
