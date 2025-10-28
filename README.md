@@ -1,7 +1,5 @@
 <img align="right" src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="50%"/>
 
-&nbsp;
-
 # Hey there! I'm Bronislav 👋
 
 I'm a **Frontend Engineer** focused on building scalable, performant, and maintainable web applications using **React, Next.js, and TypeScript**.  
