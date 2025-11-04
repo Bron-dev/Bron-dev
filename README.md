@@ -21,7 +21,7 @@ I enjoy creating clean, maintainable architecture, improving developer experienc
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bronislav-voydylo-web-dev/)
-[![Resume Badge](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10_FhLdIkTFg2b_yaqBsSSsh6l5MLqllp/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1fDFFdk5cHSwMx4CtXx76xTBEXgHC2Dlf/view?usp=sharing)
 
 ---
 
